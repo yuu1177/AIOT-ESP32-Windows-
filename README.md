@@ -1,7 +1,7 @@
 # AIOT ESP32—復原初始眼睛辨識（Windows）
 
 ## 目錄
-#### [ESP-IDF 安裝及環境建置（Hello World）（Win）](https://hackmd.io/tRP9xLiiQpmnTxIsSlCNLw?view)
+#### [ESP-IDF 安裝及環境建置（Hello World）（Win）](https://github.com/yuu1177/AIOT-ESP32-ESP-IDF-Tools-Hello-World-Windows-)
 #### >> [復原眼睛辨識（Win）](https://github.com/yuu1177/AIOT-ESP32-Windows-/blob/main/README.md)
 
 ## 復原初始眼睛辨識（Win）
