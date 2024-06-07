@@ -1,9 +1,8 @@
 # AIOT ESP32—復原初始眼睛辨識（Windows）
 
 ## 目錄
-#### [ESP32S3 簡介](https://hackmd.io/zI9JMEdBTy2z-ektNHygmA?edit)
 #### [ESP-IDF 安裝及環境建置（Hello World）（Win）](https://hackmd.io/tRP9xLiiQpmnTxIsSlCNLw?view)
-#### >> [復原眼睛辨識（Win）](https://hackmd.io/pgEcdY5JRlq2X1GM3NILmw?view)
+#### >> [復原眼睛辨識（Win）](https://github.com/yuu1177/AIOT-ESP32-Windows-/blob/main/README.md)
 
 ## 復原初始眼睛辨識（Win）
 （以 ESP32S3 晶片在Windows環境下的設定為例）
